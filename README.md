@@ -9,17 +9,16 @@
 - Rotate the character to see it from different angles
 
 # Screen Captures:
-![Capture01](https://github.com/user-attachments/assets/41f613bd-b102-40ad-bee3-92ccf9245daf)
-![Capture02](https://github.com/user-attachments/assets/f7bd43f3-cafc-4ae2-bcb1-62786d1f2146)
-![Capture03](https://github.com/user-attachments/assets/4494f8b1-bfbf-4a4d-9fc4-7b7dbcd23c83)
-![Capture04](https://github.com/user-attachments/assets/23d46913-3e2c-4b77-bd32-b94d15a09784)
-![Capture05](https://github.com/user-attachments/assets/d5b7e231-39d9-430b-b31c-528f3aacbf6b)
-![Capture06](https://github.com/user-attachments/assets/6b71e221-3f7e-46c3-81f2-c2efb0a76c89)
+![Capture01](https://github.com/user-attachments/assets/38b3eeed-2907-436c-a22c-16347b5ff203)
+![Capture02](https://github.com/user-attachments/assets/c7c091f5-6fd3-46cf-884f-8d69779825de)
+![Capture03](https://github.com/user-attachments/assets/eb6ba6b4-5f0e-4e80-ae37-e52def860d3b)
+![Capture04](https://github.com/user-attachments/assets/c5813a3c-ab26-4d25-99f2-42f9fb144603)
+![Capture05](https://github.com/user-attachments/assets/932cb863-26f7-49e5-9f2d-0c55b69e4e63)
+![Capture06](https://github.com/user-attachments/assets/1c3a084e-4988-482b-a1c9-c08430d77ed7)
+
 
 # Upcoming Features:
 - Hair selector
 - Clothes selector
 - Female body type
-- Reset button for each slider
-- Reset button for the whole page
 - WebGL Build
