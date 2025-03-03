@@ -6,19 +6,21 @@
 # Features:
 - Edit the character body shape and face
 - Select custom colors for the skin, hair and eyes
+- Change hair styles and eyebrows styles
 - Rotate the character to see it from different angles
 
 # Screen Captures:
-![Capture01](https://github.com/user-attachments/assets/38b3eeed-2907-436c-a22c-16347b5ff203)
-![Capture02](https://github.com/user-attachments/assets/c7c091f5-6fd3-46cf-884f-8d69779825de)
-![Capture03](https://github.com/user-attachments/assets/eb6ba6b4-5f0e-4e80-ae37-e52def860d3b)
-![Capture04](https://github.com/user-attachments/assets/c5813a3c-ab26-4d25-99f2-42f9fb144603)
-![Capture05](https://github.com/user-attachments/assets/932cb863-26f7-49e5-9f2d-0c55b69e4e63)
-![Capture06](https://github.com/user-attachments/assets/1c3a084e-4988-482b-a1c9-c08430d77ed7)
+![Capture01](https://github.com/user-attachments/assets/70d394aa-83d9-46ee-b71d-ede083565c11)
+![Capture02](https://github.com/user-attachments/assets/4fb7bb99-bf40-4676-a5c5-2ba644e96472)
+![Capture03](https://github.com/user-attachments/assets/379c70b2-81f0-4ad9-a861-cac00ffd9b66)
+![Capture04](https://github.com/user-attachments/assets/a66fcde7-da0c-4d81-b236-4270a7407d00)
+![Capture05](https://github.com/user-attachments/assets/b887812a-56ee-45cd-b1aa-44defc339ca4)
+![Capture06](https://github.com/user-attachments/assets/9bd1dce4-b3bc-4b8a-93ee-e0b209773221)
+![Capture07](https://github.com/user-attachments/assets/4d0bdab3-367a-4614-a6b6-6623c65de4f8)
+
 
 
 # Upcoming Features:
-- Hair selector
 - Clothes selector
 - Female body type
 - WebGL Build
